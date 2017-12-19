@@ -9,5 +9,8 @@ public class MainApp
            string output = String.Format("argv[{0}]: {0}", i, args[i]);
            Console.WriteLine(output);
         }
+        Console.WriteLine("World");
+        Console.WriteLine("êDìcêMí∑");
+        Console.WriteLine("codecheck");
     }
 }
